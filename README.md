@@ -1,7 +1,10 @@
 # Django Blogging Platform
 
 #### Check out our Django Blogging Platform in action with this demo video:
-<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">Demo Video</a>
+
+
+https://github.com/Rohitashsingh89/django_blogging/assets/93479842/dbe6a688-9186-41c4-82a4-3b9b11c814a0
+
 
 # Django Blogging Platform
 
