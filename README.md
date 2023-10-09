@@ -3,6 +3,10 @@
 #### Check out our Django Blogging Platform in action with this demo video:
 
 
+https://github.com/Rohitashsingh89/django_blogging/assets/93479842/a4bc3192-ea2e-4ca8-9ea4-1e3c9b599c01
+
+
+
 https://github.com/Rohitashsingh89/django_blogging/assets/93479842/dbe6a688-9186-41c4-82a4-3b9b11c814a0
 
 
